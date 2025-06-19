@@ -1,4 +1,0 @@
-fastapi
-unicorn
-httpx
-beautifulsoup4
